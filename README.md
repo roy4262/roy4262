@@ -1,6 +1,42 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+## 💫 About Me
 
+Hi, I'm **Lakshman** 👋  
+A passionate developer currently exploring the world of **Full Stack Web Development** and building real-world projects using **MERN stack**, **TypeScript**, **AI/ML**, and **Cloud Deployment** tools.
+
+🔭 I’m currently working on:  
+- An **AI-powered Anti-Cheating Web Application** for online exams  
+- A **Movie Recommendation App** using **Gemini AI API + TMDB**  
+- A **Price Tracker** web app using **Node.js**, **React**, and **Web Scraping**
+
+👯 I’m looking to collaborate on:  
+- Open-source projects related to **AI/ML**, **web platforms**, or **developer tools**  
+- Hackathons, startup ideas, or internship opportunities
+
+🤝 I’m looking for help with:  
+- Best practices in **scalable backend architecture**  
+- Optimizing **AI model integration** in real-time apps
+
+🌱 I’m currently learning:  
+- **Next.js**, **Prisma**, **GraphQL**, and **Docker**  
+- Deep-diving into **Data Structures & Algorithms** for coding interviews
+
+💬 Ask me about:  
+- Anything React, TypeScript, Express, MongoDB  
+- Firebase, Gemini AI, and deploying full-stack projects
+
+⚡ Fun fact:  
+I can debug your code faster than I can fix my sleep schedule 😄
+
+---
+
+## 🌐 Connect with Me
+
+- 🌍 Portfolio: [https://your-portfolio-link.com](#)
+- 💼 LinkedIn: [linkedin.com/in/your-link](#)
+- 🐱 GitHub: [github.com/roy4262](https://github.com/roy4262)
+- 📫 Email: [lakshmanvirijala34@gmail.com](mailto:lakshmanvirijala34@gmail.com)
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshmanvirijala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lakshmanvirijala/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Lakshman_Vj_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lvirijala@gmail.com) 
