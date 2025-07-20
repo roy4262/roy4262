@@ -1,7 +1,7 @@
 ## 💫 About Me
 
 Hi, I'm **Lakshman** 👋  
-I'm a Full Stack Developer currently working on **Brainly** and an **AI-powered Anti-Cheating Web Application**.
+I'm a Passionate Software Developer currently working on **Brainly** and an **AI-powered Anti-Cheating Web Application**.
 
 🔭 Currently working on:
 - Brainly: a content-sharing and learning platform  
@@ -14,7 +14,7 @@ I'm a Full Stack Developer currently working on **Brainly** and an **AI-powered 
 - Next.js, GraphQL, Docker & advanced DSA
 
 💬 Ask me about:
-- MERN stack, Firebase, Gemini AI, and deployments
+- MERN stack,Typescript,REST Api's, and deployments
 
 ⚡ Fun fact:
 I debug faster than I find my charger 😄
