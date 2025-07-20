@@ -4,7 +4,7 @@ Hi, I'm **Lakshman** 👋
 I'm a Passionate Software Developer currently working on **Brainly** and an **AI-powered Anti-Cheating Web Application**.
 
 🔭 Currently working on:
-- Brainly: a content-sharing and learning platform  
+- Brainly: a content-sharing and Storing platform  
 - AI-based Exam Monitoring System
 
 👯 Looking to collaborate on:
