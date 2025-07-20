@@ -1,40 +1,24 @@
 ## 💫 About Me
 
 Hi, I'm **Lakshman** 👋  
-A passionate developer currently exploring the world of **Full Stack Web Development** and building real-world projects using **MERN stack**, **TypeScript**, **AI/ML**, and **Cloud Deployment** tools.
+I'm a Full Stack Developer currently working on **Brainly** and an **AI-powered Anti-Cheating Web Application**.
 
-🔭 I’m currently working on:  
-- An **AI-powered Anti-Cheating Web Application** for online exams  
-- A **Movie Recommendation App** using **Gemini AI API + TMDB**  
-- A **Price Tracker** web app using **Node.js**, **React**, and **Web Scraping**
+🔭 Currently working on:
+- Brainly: a content-sharing and learning platform  
+- AI-based Exam Monitoring System
 
-👯 I’m looking to collaborate on:  
-- Open-source projects related to **AI/ML**, **web platforms**, or **developer tools**  
-- Hackathons, startup ideas, or internship opportunities
+👯 Looking to collaborate on:
+- Full Stack and AI/ML integrated projects
 
-🤝 I’m looking for help with:  
-- Best practices in **scalable backend architecture**  
-- Optimizing **AI model integration** in real-time apps
+🌱 Currently learning:
+- Next.js, GraphQL, Docker & advanced DSA
 
-🌱 I’m currently learning:  
-- **Next.js**, **Prisma**, **GraphQL**, and **Docker**  
-- Deep-diving into **Data Structures & Algorithms** for coding interviews
+💬 Ask me about:
+- MERN stack, Firebase, Gemini AI, and deployments
 
-💬 Ask me about:  
-- Anything React, TypeScript, Express, MongoDB  
-- Firebase, Gemini AI, and deploying full-stack projects
+⚡ Fun fact:
+I debug faster than I find my charger 😄
 
-⚡ Fun fact:  
-I can debug your code faster than I can fix my sleep schedule 😄
-
----
-
-## 🌐 Connect with Me
-
-- 🌍 Portfolio: [https://your-portfolio-link.com](#)
-- 💼 LinkedIn: [linkedin.com/in/your-link](#)
-- 🐱 GitHub: [github.com/roy4262](https://github.com/roy4262)
-- 📫 Email: [lakshmanvirijala34@gmail.com](mailto:lakshmanvirijala34@gmail.com)
 
 ---
 
