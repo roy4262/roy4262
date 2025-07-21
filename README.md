@@ -3,10 +3,13 @@ Hi, I'm Lakshman 👋
 I'm a Passionate Software Developer currently working on Brainly and an AI-powered Anti-Cheating Web Application.
 
 🔭 Currently working on:
+- 🧠 **Brainly – Your Second Brain (Frontend)**  
+  [GitHub Repo](https://github.com/roy4262/Brainly-frontend)
 
-- [🧠 Brainly – Your Second Brain (Frontend)](https://github.com/roy4262/Brainly-frontend): A MERN-based content-sharing and digital knowledge storage platform  
 
-- [🤖 AI Code Reviewer](https://github.com/roy4262/ai-code-reviewer): A Gemini API-powered code review tool for real-time code feedback
+- 🤖 **AI Code Reviewer**  
+  [GitHub Repo](https://github.com/roy4262/ai-code-reviewer)
+
 
 👯 Looking to collaborate on:  
 Full Stack and AI/ML integrated projects
