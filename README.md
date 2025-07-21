@@ -4,7 +4,7 @@ I'm a Passionate Software Developer currently working on Brainly and an AI-power
 
 🔭 Currently working on:
 
-[![🧠 Brainly – Your Second Brain](https://github.com/roy4262/Brainly-frontend/)]: A MERN-based content-sharing and digital knowledge storage platform
+🧠 Brainly – Your Second Brain(https://github.com/roy4262/Brainly-frontend/): A MERN-based content-sharing and digital knowledge storage platform
 
 
 🤖 AI Code Reviewer: A Gemini API-powered code review tool for real-time code feedback
